@@ -14,7 +14,6 @@ import org.slf4j.LoggerFactory;
 
 /**
  * RPC Handler（RPC request processor）
- * @author luxiaoxun
  */
 public class RpcHandler extends SimpleChannelInboundHandler<RpcRequest> {
 
